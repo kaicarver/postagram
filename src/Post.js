@@ -11,6 +11,7 @@ export default function Post() {
   useEffect(() => {
     fetchPost()
   }, [])
+  
   async function fetchPost() {
     try {
       const postData = await API.graphql({

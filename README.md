@@ -1,3 +1,11 @@
+# Postagram
+
+This came from Nader Dabit's React Europe _Full Stack React with GraphQL and AWS Amplify Workshop_:
+
+https://github.com/dabit3/amplify-photo-sharing-workshop
+
+# Create React standard stuff
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
