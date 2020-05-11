@@ -1,8 +1,22 @@
 # Postagram
 
-This came from Nader Dabit's React Europe _Full Stack React with GraphQL and AWS Amplify Workshop_:
+This came from Nader Dabit's React Europe workshop:
+
+_Full Stack React with GraphQL and AWS Amplify_
 
 https://github.com/dabit3/amplify-photo-sharing-workshop
+
+these were some links he posted
+
+https://dev.to/open-graphql/graphql-recipes-building-apis-with-graphql-transform-3jp0
+
+https://dev.to/dabit3/data-modeling-in-depth-with-graphql-aws-amplify-17-data-access-patterns-4meh
+
+https://docs.amplify.aws/cli/graphql-transformer/directives
+
+this was an example he talked about at the end
+
+https://gist.github.com/dabit3/c67778909722d64bb452de81c1895d4f
 
 # Create React standard stuff
 
